@@ -23,3 +23,7 @@ duckdb
 psutil
 httpx
 scikit-learn
+flask
+fastapi
+uvicorn
+
